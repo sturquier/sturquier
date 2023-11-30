@@ -1,8 +1,13 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sturquier&show_icons=true&count_private=true&theme=dracula">
+# Hello, I'm Simon :wave:
+
+Full StackOverflow Developer
+
+## Technologies
+
+Versatile in all web technologies\
+Advanced skills in Symfony / Nest.JS / React.JS / Flutter
 
 
-### Hello, I'm Simon :wave:
+## Projects
 
-- :computer: I work for <a href="https://tkt.paris/">TKT - Thinking Technology</a>
-- :fire: I mainly work with Symfony / Nest.JS / React.JS
-- :rocket: I'm a big fan of GraphQL
+* [Thoth](https://github.com/sturquier/thoth) : Flutter application for searching and filtering web development articles
